@@ -27,4 +27,4 @@ Python · FastAPI · Flask · SQLAlchemy 2.0 · React 18/19 · TypeScript · Vit
 ## Contact
 
 Leeds, United Kingdom — remote, Europe and US overlap
-[anthonyadavid@outlook.com](mailto:anthonyadavid@outlook.com) · [LinkedIn](https://www.linkedin.com/in/anthony-david-3b3a1a127/)
+[anthonydavidhyk@gmail.com](mailto:anthonydavidhyk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anthony-david-3b3a1a127/)
